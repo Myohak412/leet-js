@@ -20,7 +20,7 @@ a.active{
     text-decoration: underline;
 }
 a.link, a:visited{
-    background-color: #f44336;
+    background-color: #36f4bb;
     color: white;
     padding: 15px 25px;
     text-align: center;
